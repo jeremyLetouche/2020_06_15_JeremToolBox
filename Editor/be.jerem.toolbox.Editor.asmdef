@@ -1,0 +1,17 @@
+{
+    "name": "be.jerem.toolbox.Editor",
+    "references": [
+        "GUID:fbc51fdede3d83047b89c6e710a1aa5b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
