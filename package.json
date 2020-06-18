@@ -6,5 +6,5 @@
   "description": "You package description",
   "keywords": ["Script","Tool"],
   "category": "Script",
-  "dependencies":{}
+  "dependencies":{"be.eloistree.virtualrealitytags" : " 0.0.1"}
 }
