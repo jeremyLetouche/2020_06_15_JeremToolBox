@@ -1,0 +1,10 @@
+Le son sound_lorenaQuaranta_lamp.wav est un son placé au niveau de la lampe
+
+Le son sound_lorenaQuaranta_computer.wav est le son d'ambiance de base qu'on entend tout le temps
+Les crédits pour ce son c'est ceci :
+Sound made by Ja5on1995 - https://freesound.org/people/Ja5on1995/sounds/325523/ 
+
+
+Le son sound_lorena_Quaranta_footsteps.aiff est un son d'ambiance aussi qu'on entendrait au dessus du joueur (comme si quelqu'un marchait à l'étage au dessus) est-qu'on sait le mettre au bout d'un certain timing ou alors l'enclencher quand le joueur se trouve près du bureau?
+Les crédits pour ce son c'est ceci : 
+Sound made by Eeleke - https://freesound.org/people/Eelke/sounds/126378/?page=2#comments
